@@ -15,7 +15,7 @@ const app = express()
 // ;
 
 
-app.use('/project_mosook_limousine', express.static(__dirname + '/project_mosook_limousine'))
+app.use('/project_mosook_limousine', express.static('./project_mosook_limousine'))
 
 // app.get('/', (req, res) => {
 //   console.log("Request received",req.path,__dirname)
