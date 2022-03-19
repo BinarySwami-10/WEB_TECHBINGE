@@ -1,0 +1,3 @@
+[submodule ".archive/project_mosooklimo"]
+	path = .archive/project_mosooklimo
+	url = https://github.com/adhikarisonit/mosooklimo.git
