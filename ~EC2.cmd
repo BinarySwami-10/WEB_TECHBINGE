@@ -1,2 +1,2 @@
 @echo off
-ssh -i "%USERPROFILE%\.ssh\universal-swamix-key.pem" ec2-user@ec2-3-109-221-241.ap-south-1.compute.amazonaws.com
+ssh -i "%USERPROFILE%\.ssh\universal-swamix-key.pem" ec2-user@ec2-13-234-202-33.ap-south-1.compute.amazonaws.com
